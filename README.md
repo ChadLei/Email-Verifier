@@ -3,6 +3,6 @@ This script searches through your email inbox for emails from a specific sender 
 
 Run newgmail.py for functioning script. 
 
-newgmail.py - uses imaplib library
-gmail.py - uses poplib library 
-testgmail.py - uses imaplib with HTML parser
+- newgmail.py: uses imaplib library
+- gmail.py: uses poplib library 
+- testgmail.py: uses imaplib with HTML parser
